@@ -1,0 +1,268 @@
+/* for laptops and tablets */
+@media(max-width:1200px) {
+    .img1{
+        margin-left: 3rem;
+        margin-right: -15rem;
+    }
+    .img2{
+        margin-left: 4rem;
+        margin-right: -10rem;
+        
+    }
+    .img3{
+        margin-left: 0rem;
+        margin-right: -1rem;
+    }
+    .img4{
+        margin-left: 2rem;
+        margin-right: -1rem;
+    }
+    .img5{
+        margin-left: -2rem;
+        margin-right: -5rem;
+    }
+    .txt1{
+        font-size: 2.5vw;
+    }
+    .txt2{
+        font-size: 2.5vw;
+    }
+    .txt3{
+        font-size: 2.5vw;
+        width: 40rem;
+    }
+    .txt4{
+        font-size: 2.5vw;
+        
+    }
+    .txt5{
+        font-size: 2.5vw;
+    }
+    .word{
+        font-size: 4vw;
+    }
+
+    .box1{
+        width: 25vw;
+        margin: 0 2vw;
+        
+    }
+    .box2{
+        width: 25vw;
+        margin: 0 2vw;
+    }
+    .box3{
+        width: 25vw;
+        margin: 0 2vw;
+    }
+    .box4{
+        width: 25vw;
+        margin: 0 2vw;
+    }
+    .im1{
+        width: 20vw;
+    }
+    .im2{
+        width: 20vw;
+    }
+    .im3{
+        width: 20vw;
+    }
+    .im4{
+        width: 20vw;
+    }
+    .tx1{
+        font-size: 1.6vw;
+    }
+    .tx2{
+        font-size: 1.6vw;
+    }
+    .tx3{
+        font-size: 1.6vw;
+    }
+    .tx4{
+        font-size: 1.6vw;
+    }
+
+    .img7{
+        margin-left: 1rem;
+        margin-right: -10rem;
+    }
+
+    
+}
+
+
+
+@media(max-width:400px){
+    .log{
+        display: none;
+    }
+    .MainImg{
+        height: 100vh;
+        background-image: url("3347081.jpg");
+        background-position: center;
+    }
+    .navbar{
+        height: 4rem;
+        padding:0rem;
+    }
+    .container-fluid{
+        margin-top: -0.5rem;
+    }
+    .navbar-brand{
+        margin-left: -1.7rem;
+    }
+
+    .see{
+        font-size: 2rem;
+    }
+
+    .one{
+        width: 100vw;
+        height: 20vh;
+        
+    }
+    .two{
+        width: 100vw;
+        height: 20vh;
+    }
+    .three{
+        width: 100vw;
+        height: 20vh;
+
+    }
+    .four{
+        width: 100vw;
+        height: 20vh;
+    }
+    .five{
+        width: 100vw;
+        height: 20vh;
+    }
+    
+    .img1{
+        width: 100vw;
+        justify-content: center;
+        margin-left: 0rem;
+        margin-right: 0rem;
+        background-position: center;
+        background-size: contain;
+        display: inline-flex;
+        flex-direction: column;
+        
+    }
+    .img2{
+        width: 100vw;
+        justify-content: center;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        background-position: center;
+        background-size: contain;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .img3{
+        width: 100vw;
+        justify-content: center;
+        margin-left: 0rem;
+        margin-right: 1rem;
+        background-position: center;
+        background-size: contain;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .img4{
+        width: 100vw;
+        justify-content: center;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        background-position: center;
+        background-size: contain;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .img5{
+        width: 100vw;
+        justify-content: center;
+        margin-left: 0rem;
+        margin-right: 1rem;
+        background-position: center;
+        background-size: contain;
+        display: inline-flex;
+        flex-direction: column;
+    }
+
+    .six{
+        width: 100vw;
+        height: 100vh;
+        padding: 1rem;
+    }
+    .txt6{
+        padding-top: 1rem;
+        font-size: 1.5rem;
+
+    }
+    .container{
+        margin-top: -1rem;
+        flex-direction: column;
+        padding: 1rem 1rem;
+        height: 100vh;
+    }
+    .box1 , .box2 , .box3 , .box4{
+        width: 100vw;
+        height: 100vh;
+        margin: 2rem 0rem;
+        
+    }
+
+    .im1 , .im2 , .im3 , .im4{
+        width: 20vw;
+        height: 10vh;
+    }
+    .tx1 , .tx2 , .tx3 , .tx4{
+        font-size: 7vw;
+    }
+
+    .seven{
+        width: 100vh;
+        height: 15vh;
+        display: inline-flex;
+        
+    }
+    .img7{
+        width: 20%;
+        margin-left: -1rem;
+        margin-right: -23rem;
+    }
+    .txt7{
+        width: 13rem;
+        font-size: 3vw;
+    }
+
+    .contain{
+        flex-direction: column;
+        
+    }
+    .line{
+        display: none;
+    }
+
+    .h1{
+        font-size: 6vw;
+        border-bottom: 3px solid white;
+    }
+    .sym{
+        width: 80vw;
+    }
+    .kuch{
+        width: 70vw;
+        font-size: 3vw;
+        padding-left: 1rem;
+    }
+    .copy{
+        font-size: 3vw;
+    }
+
+
+}

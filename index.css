@@ -1,0 +1,476 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+nav ul li{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2rem;
+}
+
+.navbar{
+    background-color: white;
+    height: 5rem;
+}
+
+
+.MainImg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("31-empowering-ways-to-celebrate-womens-history-month_0-726d177a.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.see{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 32rem;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 4rem;
+    line-height: 68px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 6px 3px 4px #BD00FF;
+    animation: see 2s infinite 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+@keyframes see {
+    from{
+        margin-top: 32rem;
+    }
+    to{
+        margin-top: 28rem;
+    }
+    
+}
+
+.one{
+    width: 100vw;
+    height: 40vh;
+    background: rgba(255, 255, 255, 0.53);
+    display: inline-flex;
+}
+
+.two{
+    width: 100vw;
+    height: 40vh;
+    background: rgba(246, 140, 255, 0.39);
+    display: inline-flex;
+}
+
+.three{
+    width: 100vw;
+    height: 40vh;
+    background: #FEFFB7;
+    display: inline-flex;
+    margin-top: -1rem;
+}
+
+.four{
+    width: 100vw;
+    height: 40vh;
+    background: rgba(182, 255, 207, 0.63);
+    display: inline-flex;
+    margin-top: -0.4rem;
+}
+
+.five{
+    width: 100vw;
+    height: 40vh;
+    background: #FFD2D2;
+    display: inline-flex;
+    margin-top: -1rem;
+}
+
+.six{
+    background: rgba(0, 41, 255, 0.32);
+    margin-top: -1rem;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+.seven{
+    width: 100vw;
+    height: 25vh;
+    background: #FAFF1D;
+    display: inline-flex;
+    
+}
+
+.img1{
+    width: 50%;
+    background-image: url("20945093.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -30rem;
+    margin-left: 10rem;
+    
+
+}
+
+.img2{
+    width: 50%;
+    background-image: url("indian-woman-vector-illustration-39531708-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -10rem;
+    margin-left: 10rem;
+}
+
+.img3{
+    width: 50%;
+    background-image: url("istockphoto-929720010-170667a-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -11rem;
+    margin-left: 1rem;
+}
+
+.img4{
+    width: 50%;
+    background-image: url("happy-kartini-day-illustration-indonesian-female-heroes-women-empowerment-kartini-brave-female-with-flowers-r-kartini-heroes-women-human-right-indonesia-vector-flat-style_7737-2235-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -17rem;
+    margin-left: 10rem;
+}
+
+
+.img5{
+    width: 50%;
+    background-image: url("images-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -8rem;
+    margin-left: 6rem;
+}
+.img6{
+    width: 50%;
+    background-image: url("images-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -8rem;
+    margin-left: 6rem;
+}
+.img7{
+    width: 50%;
+    background-image: url("indian-woman-many-hands-lotus-position-indian-woman-many-hands-lotus-position-vector-illustration-washing-171527910-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: -20rem;
+    margin-left: 9rem;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.join{
+    color: black;
+}
+
+.txt1{
+    font-family: 'Raleway';
+    font-size: 2rem;
+    display: inline-block;
+    width: 50rem;
+    margin: auto;
+
+}
+
+.txt2{
+    font-family: 'Raleway';
+    font-size: 2rem;
+    display: inline-block;
+    width: 75rem;
+    margin: auto;
+}
+.txt3{
+    font-family: 'Raleway';
+    font-size: 2rem;
+    display: inline-block;
+    width: 55rem;
+    margin: auto;
+}
+
+.txt4{
+    font-family: 'Raleway';
+    font-size: 2rem;
+    display: inline-block;
+    width: 60rem;
+    margin: auto;
+}
+.txt5{
+    font-family: 'Raleway';
+    font-size: 2rem;
+    display: inline-block;
+    width: 70rem;
+    margin: auto;
+}
+.txt6{
+        font-family: 'Raleway';
+        font-size: 3rem;
+        display: inline-block;
+        color: white;
+        margin: auto;
+        text-align: center;
+    }
+    .txt7{
+        width: 70rem;
+        font-family: 'Raleway';
+        font-size: 2.2rem;
+        display: inline-block;
+        color: color;
+        margin: auto;
+        
+    }
+    
+    .container{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        height: 20vh;
+        padding: 0 2rem;
+    }
+    
+.box1{
+    width: 10vw;
+    
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway';
+    font-size: 1.2rem;
+    
+    text-align: center;
+    margin: 0rem 6rem;
+    
+}
+
+.box2{
+    width: 10vw;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway';
+    font-size: 1.2rem;
+    margin: 0rem 6rem;
+    
+    text-align: center;
+    
+}
+.box3{
+    width: 10vw;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway';
+    font-size: 1.2rem;
+    
+    text-align: center;
+    margin: 0rem 6rem;
+    
+}
+.box4{
+    width: 10vw;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway';
+    font-size: 1.2rem;
+    margin: 0rem 6rem;
+    
+    text-align: center;
+    
+}
+
+
+.im1{
+    width: 10vw;
+    height: 10vh;
+    background-image: url("download-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+}
+
+.im2{
+    width: 10vw;
+    height: 10vh;
+    background-image: url("kisspng-computer-icons-scalable-vector-graphics-service-po-ampquotincom-serviceam-5cc87119bd0829.6467823915566400257743-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+}
+
+.im3{
+    width: 10vw;
+    height: 10vh;
+    background-image: url("kisspng-vector-graphics-coaching-clip-art-portable-network-ecrglobal-5b900ef68c45a3.5621247315361676705746-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+}
+
+.im4{
+    width: 10vw;
+    height: 10vh;
+    background-image: url("download__1_-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+}
+div::-webkit-scrollbar {
+    display: none;
+    position: fixed;
+}
+
+
+.tx1{
+    font-size: 1rem;
+    color: white;
+}
+
+.tx2{
+    
+    font-size: 1rem;
+    color: white;
+}
+
+.tx3{
+    
+    font-size: 1rem;
+    color: white;
+}
+
+.tx4{
+    font-size: 1rem;
+    
+    color: white;
+}
+
+
+.word{
+    font-size: 3rem;
+    animation: wiggle infinite 2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    color: black;
+}
+
+@keyframes wiggle{
+    0%{
+        color: black;
+    }
+    25%{
+        color: #241E92;
+    }
+    50%{
+        color: #5432D3;
+    }
+    75%{
+        color: #7B6CF6;
+    }
+    100%{
+        color: #E5A5FF;
+    }
+}
+
+footer{
+    background-color: #393939;
+    color: white;
+    font-family: 'Raleway';
+    margin-top: -0.4rem;
+    
+}
+
+
+
+h1::-webkit-scrollbar {
+    display: none;
+}
+
+.contain{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    padding: 2rem;
+    justify-content: space-around;
+    
+}
+
+.h1{
+    font-size: 2rem;
+    border-bottom: 3px solid white;
+}
+
+
+.line{
+    width: 2px;
+    height: 15rem;
+    background-color: white;
+}
+
+.sym{
+    width: 20rem;
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.kuch{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 25rem;
+    display: inline-flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+}
+
+.copy{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}
+
+
+
+
+
